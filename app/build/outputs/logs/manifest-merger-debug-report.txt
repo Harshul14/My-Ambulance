@@ -1,0 +1,577 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c534d8d2695ba4067150a61eb9b369c3\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ccadc00f5142a414aab79f1c074f7201\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c961763184d78b661c77fa25b732db0b\exifinterface-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e3e4e7f6409dee1c71b854a606c55732\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\27d1fe4de0b9de84ab375d0e353cb7fe\firebase-core-15.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\bec3b951525c18453d4017b8a27772a7\firebase-database-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\9387640642b195b0b34012eab6f4dabf\firebase-storage-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2abf71ad9156d781271c8535d82fe5b\android-gif-drawable-1.2.15\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\167c5af10b0169250f033f8d8c7a040f\firebase-database-connection-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8ca57db1be0c03f7ab18038575ed091a\play-services-flags-15.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\97380c4f242fabd4907f113c64ed2177\firebase-iid-interop-15.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e53b7f901c4231fe8a559146cf9b9cb9\play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a91e623441172f0fbf24811d0b4efd6c\firebase-database-collection-15.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0762fc9f304794dbddc579fb5b29da2d\firebase-storage-common-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dee6e997181e428a1a5f4b3d1cee1127\play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\cb9625394733c4c97a27eec71a724950\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\35688095cc1bbee797357e234056b34d\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dd0276c757df14c04b92a2c877232401\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\6b85eb09da9ad3b4f01df823517a744d\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\aeb4a1f38bd54fddcb6948d8cfbd0d3c\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8aa6950aea12a2d2f86d0209adb5d077\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\510cf50bcef2cb19e186d3cec6ce0da9\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2386dd5e75e014813f71a20ada1ec3c0\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a852a921f984d4c284afaeb092279d04\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ce84beb3d81b4a3a784731998fb17423\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7ca3e0fa0b54d1d5955e3a86e484d1e0\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\4cbc75cfc21dc61ea668e186b659314e\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\164007dfd7b73fe0912d69054a440212\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\48ca65a122cac843bb86e2aa5dcba6e4\play-services-measurement-base-15.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7cb438c4ed863cf47922563707a9555c\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a0ad56d00eb29f6d1d88e331da2cd464\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:11:5-68:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e3e4e7f6409dee1c71b854a606c55732\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e3e4e7f6409dee1c71b854a606c55732\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\27d1fe4de0b9de84ab375d0e353cb7fe\firebase-core-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\27d1fe4de0b9de84ab375d0e353cb7fe\firebase-core-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\97380c4f242fabd4907f113c64ed2177\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\97380c4f242fabd4907f113c64ed2177\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e53b7f901c4231fe8a559146cf9b9cb9\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e53b7f901c4231fe8a559146cf9b9cb9\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dee6e997181e428a1a5f4b3d1cee1127\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dee6e997181e428a1a5f4b3d1cee1127\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\cb9625394733c4c97a27eec71a724950\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\cb9625394733c4c97a27eec71a724950\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\48ca65a122cac843bb86e2aa5dcba6e4\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\48ca65a122cac843bb86e2aa5dcba6e4\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.ambulance.proj.myambulance.AddVehicleDetails
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:18:9-20:39
+	android:exported
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:19:13-46
+activity#com.ambulance.proj.myambulance.VehicleList
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:22:13-40
+activity#com.ambulance.proj.myambulance.AnimalAmbulanceBookedActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:24:19-64
+activity#com.ambulance.proj.myambulance.AmbulanceBookedActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:25:19-58
+activity#com.ambulance.proj.myambulance.HelpActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:26:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:28:9-30:71
+	android:value
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:30:13-68
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:29:13-58
+activity#com.ambulance.proj.myambulance.MapsActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.ambulance.proj.myambulance.AboutUs
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:33:19-42
+activity#com.ambulance.proj.myambulance.SelectUserOrDriver
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:36:13-73
+	android:theme
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:35:13-47
+activity#com.ambulance.proj.myambulance.Select_animal_hospital
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:38:19-57
+activity#com.ambulance.proj.myambulance.Select_aanimal_amb
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:39:9-56
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:39:19-53
+activity#com.ambulance.proj.myambulance.Select_animal_and_human
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:40:19-58
+activity#com.ambulance.proj.myambulance.MyRating
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:41:9-46
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:41:19-43
+activity#com.ambulance.proj.myambulance.SumoOxygen
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:42:9-48
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:42:19-45
+activity#com.ambulance.proj.myambulance.SumoSignIn
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:43:9-48
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:43:19-45
+activity#com.ambulance.proj.myambulance.MarutiOxygen
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:44:19-47
+activity#com.ambulance.proj.myambulance.select_hospital
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:45:9-53
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:45:19-50
+activity#com.ambulance.proj.myambulance.Cost_Activity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:46:9-51
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:46:19-48
+activity#com.ambulance.proj.myambulance.LoginOtp
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:47:9-46
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:47:19-43
+activity#com.ambulance.proj.myambulance.BasicSignIn
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:48:9-49
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:48:19-46
+activity#com.ambulance.proj.myambulance.DriverInfo
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:49:9-48
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:49:19-45
+activity#com.ambulance.proj.myambulance.Login_reg_user
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:50:9-52
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:50:19-49
+activity#com.ambulance.proj.myambulance.OtpActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:51:9-49
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:51:19-46
+activity#com.ambulance.proj.myambulance.UpdatePassword
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:52:9-52
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:52:19-49
+activity#com.ambulance.proj.myambulance.UpdateProfile
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:53:9-51
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:53:19-48
+activity#com.ambulance.proj.myambulance.ProfileActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:54:9-53
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:54:19-50
+activity#com.ambulance.proj.myambulance.RegistrationActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:55:9-58
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:55:19-55
+activity#com.ambulance.proj.myambulance.PasswordActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:56:9-54
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:56:19-51
+activity#com.ambulance.proj.myambulance.SignOutActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:57:9-53
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:57:19-50
+activity#com.ambulance.proj.myambulance.DriverLogin
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:58:9-49
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:58:19-46
+activity#com.ambulance.proj.myambulance.Login_reg_driver
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:59:9-54
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:59:19-51
+activity#com.ambulance.proj.myambulance.Select_Driver_User
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:60:9-56
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:60:19-53
+activity#com.ambulance.proj.myambulance.SplashActivity
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:61:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:65:27-74
+uses-sdk
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c534d8d2695ba4067150a61eb9b369c3\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c534d8d2695ba4067150a61eb9b369c3\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ccadc00f5142a414aab79f1c074f7201\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ccadc00f5142a414aab79f1c074f7201\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c961763184d78b661c77fa25b732db0b\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\c961763184d78b661c77fa25b732db0b\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e3e4e7f6409dee1c71b854a606c55732\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e3e4e7f6409dee1c71b854a606c55732\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\27d1fe4de0b9de84ab375d0e353cb7fe\firebase-core-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\27d1fe4de0b9de84ab375d0e353cb7fe\firebase-core-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\bec3b951525c18453d4017b8a27772a7\firebase-database-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\bec3b951525c18453d4017b8a27772a7\firebase-database-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\9387640642b195b0b34012eab6f4dabf\firebase-storage-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\9387640642b195b0b34012eab6f4dabf\firebase-storage-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2abf71ad9156d781271c8535d82fe5b\android-gif-drawable-1.2.15\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2abf71ad9156d781271c8535d82fe5b\android-gif-drawable-1.2.15\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\167c5af10b0169250f033f8d8c7a040f\firebase-database-connection-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\167c5af10b0169250f033f8d8c7a040f\firebase-database-connection-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8ca57db1be0c03f7ab18038575ed091a\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8ca57db1be0c03f7ab18038575ed091a\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\97380c4f242fabd4907f113c64ed2177\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\97380c4f242fabd4907f113c64ed2177\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e53b7f901c4231fe8a559146cf9b9cb9\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\e53b7f901c4231fe8a559146cf9b9cb9\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a91e623441172f0fbf24811d0b4efd6c\firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a91e623441172f0fbf24811d0b4efd6c\firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0762fc9f304794dbddc579fb5b29da2d\firebase-storage-common-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0762fc9f304794dbddc579fb5b29da2d\firebase-storage-common-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dee6e997181e428a1a5f4b3d1cee1127\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dee6e997181e428a1a5f4b3d1cee1127\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\cb9625394733c4c97a27eec71a724950\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\cb9625394733c4c97a27eec71a724950\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\35688095cc1bbee797357e234056b34d\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\35688095cc1bbee797357e234056b34d\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dd0276c757df14c04b92a2c877232401\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\dd0276c757df14c04b92a2c877232401\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\6b85eb09da9ad3b4f01df823517a744d\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\6b85eb09da9ad3b4f01df823517a744d\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\aeb4a1f38bd54fddcb6948d8cfbd0d3c\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\aeb4a1f38bd54fddcb6948d8cfbd0d3c\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8aa6950aea12a2d2f86d0209adb5d077\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\8aa6950aea12a2d2f86d0209adb5d077\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\510cf50bcef2cb19e186d3cec6ce0da9\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\510cf50bcef2cb19e186d3cec6ce0da9\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2386dd5e75e014813f71a20ada1ec3c0\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2386dd5e75e014813f71a20ada1ec3c0\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a852a921f984d4c284afaeb092279d04\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a852a921f984d4c284afaeb092279d04\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ce84beb3d81b4a3a784731998fb17423\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\ce84beb3d81b4a3a784731998fb17423\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7ca3e0fa0b54d1d5955e3a86e484d1e0\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7ca3e0fa0b54d1d5955e3a86e484d1e0\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\4cbc75cfc21dc61ea668e186b659314e\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\4cbc75cfc21dc61ea668e186b659314e\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\164007dfd7b73fe0912d69054a440212\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\164007dfd7b73fe0912d69054a440212\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\48ca65a122cac843bb86e2aa5dcba6e4\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\48ca65a122cac843bb86e2aa5dcba6e4\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7cb438c4ed863cf47922563707a9555c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\7cb438c4ed863cf47922563707a9555c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a0ad56d00eb29f6d1d88e331da2cd464\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\a0ad56d00eb29f6d1d88e331da2cd464\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:24:13-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:28:9-32
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\1768837b07f9cf0daab98f6353db5f02\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+permission#com.ambulance.proj.myambulance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+uses-permission#com.ambulance.proj.myambulance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.ambulance.proj.myambulance
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+category#com.ambulance.proj.myambulance
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58

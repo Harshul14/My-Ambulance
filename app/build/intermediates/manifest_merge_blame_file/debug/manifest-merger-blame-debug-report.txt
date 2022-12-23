@@ -1,0 +1,351 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ambulance.proj.myambulance"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SEND_SMS" />
+11-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:8:5-67
+14-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:9:22-76
+16
+17    <!-- Include required permissions for Google Maps API to run. -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:23:5-79
+18-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:23:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\0915eb84485bb6c6bd7dfc081d888d0d\play-services-maps-15.0.1\AndroidManifest.xml:28:9-32
+23
+24    <uses-permission android:name="android.permission.WAKE_LOCK" />
+24-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+24-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:25:22-65
+25    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+25-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:26:5-110
+25-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:26:22-107
+26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+26-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:26:5-82
+26-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:26:22-79
+27
+28    <permission
+28-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+29        android:name="com.ambulance.proj.myambulance.permission.C2D_MESSAGE"
+29-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+30        android:protectionLevel="signature" />
+30-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+31
+32    <uses-permission android:name="com.ambulance.proj.myambulance.permission.C2D_MESSAGE" />
+32-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+32-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+33
+34    <application
+34-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:11:5-68:19
+35        android:allowBackup="true"
+35-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:12:9-35
+36        android:debuggable="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:13:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:14:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:15:9-54
+40        android:supportsRtl="true"
+40-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:16:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:17:9-40
+43        <activity
+43-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:18:9-20:39
+44            android:name="com.ambulance.proj.myambulance.AddVehicleDetails"
+44-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:19:13-46
+45            android:exported="true" />
+45-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:20:13-36
+46        <activity
+46-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:21:9-23:39
+47            android:name="com.ambulance.proj.myambulance.VehicleList"
+47-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:22:13-40
+48            android:exported="true" />
+48-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:23:13-36
+49        <activity android:name="com.ambulance.proj.myambulance.AnimalAmbulanceBookedActivity" />
+49-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:24:9-67
+49-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:24:19-64
+50        <activity android:name="com.ambulance.proj.myambulance.AmbulanceBookedActivity" />
+50-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:25:9-61
+50-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:25:19-58
+51        <activity android:name="com.ambulance.proj.myambulance.HelpActivity" />
+51-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:26:9-50
+51-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:26:19-47
+52
+53        <meta-data
+53-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:28:9-30:71
+54            android:name="com.google.android.geo.API_KEY"
+54-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:29:13-58
+55            android:value="AIzaSyCX18V73aPLBoGWGwtYP4DWGh22oJZ4kCA" />
+55-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:30:13-68
+56
+57        <activity android:name="com.ambulance.proj.myambulance.MapsActivity" />
+57-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:32:9-50
+57-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:32:19-47
+58        <activity android:name="com.ambulance.proj.myambulance.AboutUs" />
+58-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:33:9-45
+58-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:33:19-42
+59        <activity
+59-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:34:9-37:59
+60            android:name="com.ambulance.proj.myambulance.SelectUserOrDriver"
+60-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:35:13-47
+61            android:label="@string/title_activity_select_user_or_driver"
+61-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:36:13-73
+62            android:theme="@style/AppTheme.NoActionBar" />
+62-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:37:13-56
+63        <activity android:name="com.ambulance.proj.myambulance.Select_animal_hospital" />
+63-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:38:9-60
+63-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:38:19-57
+64        <activity android:name="com.ambulance.proj.myambulance.Select_aanimal_amb" />
+64-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:39:9-56
+64-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:39:19-53
+65        <activity android:name="com.ambulance.proj.myambulance.Select_animal_and_human" />
+65-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:40:9-61
+65-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:40:19-58
+66        <activity android:name="com.ambulance.proj.myambulance.MyRating" />
+66-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:41:9-46
+66-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:41:19-43
+67        <activity android:name="com.ambulance.proj.myambulance.SumoOxygen" />
+67-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:42:9-48
+67-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:42:19-45
+68        <activity android:name="com.ambulance.proj.myambulance.SumoSignIn" />
+68-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:43:9-48
+68-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:43:19-45
+69        <activity android:name="com.ambulance.proj.myambulance.MarutiOxygen" />
+69-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:44:9-50
+69-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:44:19-47
+70        <activity android:name="com.ambulance.proj.myambulance.select_hospital" />
+70-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:45:9-53
+70-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:45:19-50
+71        <activity android:name="com.ambulance.proj.myambulance.Cost_Activity" />
+71-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:46:9-51
+71-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:46:19-48
+72        <activity android:name="com.ambulance.proj.myambulance.LoginOtp" />
+72-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:47:9-46
+72-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:47:19-43
+73        <activity android:name="com.ambulance.proj.myambulance.BasicSignIn" />
+73-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:48:9-49
+73-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:48:19-46
+74        <activity android:name="com.ambulance.proj.myambulance.DriverInfo" />
+74-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:49:9-48
+74-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:49:19-45
+75        <activity android:name="com.ambulance.proj.myambulance.Login_reg_user" />
+75-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:50:9-52
+75-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:50:19-49
+76        <activity android:name="com.ambulance.proj.myambulance.OtpActivity" />
+76-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:51:9-49
+76-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:51:19-46
+77        <activity android:name="com.ambulance.proj.myambulance.UpdatePassword" />
+77-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:52:9-52
+77-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:52:19-49
+78        <activity android:name="com.ambulance.proj.myambulance.UpdateProfile" />
+78-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:53:9-51
+78-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:53:19-48
+79        <activity android:name="com.ambulance.proj.myambulance.ProfileActivity" />
+79-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:54:9-53
+79-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:54:19-50
+80        <activity android:name="com.ambulance.proj.myambulance.RegistrationActivity" />
+80-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:55:9-58
+80-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:55:19-55
+81        <activity android:name="com.ambulance.proj.myambulance.PasswordActivity" />
+81-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:56:9-54
+81-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:56:19-51
+82        <activity android:name="com.ambulance.proj.myambulance.SignOutActivity" />
+82-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:57:9-53
+82-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:57:19-50
+83        <activity android:name="com.ambulance.proj.myambulance.DriverLogin" />
+83-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:58:9-49
+83-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:58:19-46
+84        <activity android:name="com.ambulance.proj.myambulance.Login_reg_driver" />
+84-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:59:9-54
+84-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:59:19-51
+85        <activity android:name="com.ambulance.proj.myambulance.Select_Driver_User" />
+85-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:60:9-56
+85-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:60:19-53
+86        <activity android:name="com.ambulance.proj.myambulance.SplashActivity" >
+86-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:61:9-67:20
+86-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:61:19-49
+87            <intent-filter>
+87-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:62:13-66:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:63:17-69
+88-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:63:25-66
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:65:17-77
+90-->C:\Users\harsh\Desktop\Upload\MyAmbulance\MyAmbulance\app\src\main\AndroidManifest.xml:65:27-74
+91            </intent-filter>
+92        </activity>
+93
+94        <provider
+94-->[com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+95            android:name="com.squareup.picasso.PicassoProvider"
+95-->[com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:9:13-64
+96            android:authorities="com.ambulance.proj.myambulance.com.squareup.picasso"
+96-->[com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:10:13-72
+97            android:exported="false" />
+97-->[com.squareup.picasso:picasso:2.71828] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\158b1cd87f9f5dcd0d3c7b97549d0ae2\picasso-2.71828\AndroidManifest.xml:11:13-37
+98
+99        <activity
+99-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:23:9-29:75
+100            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+100-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:24:13-85
+101            android:excludeFromRecents="true"
+101-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:25:13-46
+102            android:exported="true"
+102-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:26:13-36
+103            android:launchMode="singleInstance"
+103-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:27:13-48
+104            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+104-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:28:13-102
+105            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+105-->[com.google.firebase:firebase-auth:15.0.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\051669bf88c9b54debd46e9c8b1f878e\firebase-auth-15.0.0\AndroidManifest.xml:29:13-72
+106
+107        <receiver
+107-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:29:9-33:20
+108            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+108-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:30:13-85
+109            android:enabled="true"
+109-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:31:13-35
+110            android:exported="false" >
+110-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:32:13-37
+111        </receiver>
+112        <receiver
+112-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:34:9-42:20
+113            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+113-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:35:13-100
+114            android:enabled="true"
+114-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:36:13-35
+115            android:exported="true"
+115-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:37:13-36
+116            android:permission="android.permission.INSTALL_PACKAGES" >
+116-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:38:13-69
+117            <intent-filter>
+117-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:39:13-41:29
+118                <action android:name="com.android.vending.INSTALL_REFERRER" />
+118-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:40:17-79
+118-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:40:25-76
+119            </intent-filter>
+120        </receiver>
+121
+122        <service
+122-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:44:9-47:40
+123            android:name="com.google.android.gms.measurement.AppMeasurementService"
+123-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:45:13-84
+124            android:enabled="true"
+124-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:46:13-35
+125            android:exported="false" />
+125-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:47:13-37
+126        <service
+126-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:48:9-52:72
+127            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+127-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:49:13-87
+128            android:enabled="true"
+128-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:50:13-35
+129            android:exported="false"
+129-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:51:13-37
+130            android:permission="android.permission.BIND_JOB_SERVICE" />
+130-->[com.google.firebase:firebase-analytics:15.0.2] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\85ae68553c61bd6494d3bf2a50d000fb\firebase-analytics-15.0.2\AndroidManifest.xml:52:13-69
+131        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+131-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+131-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:35:18-89
+132            <meta-data
+132-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:36:13-38:85
+133                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+133-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:37:17-96
+134                android:value="com.google.firebase.components.ComponentRegistrar" />
+134-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:38:17-82
+135        </service>
+136
+137        <receiver
+137-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:41:9-50:20
+138            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+138-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:42:13-78
+139            android:exported="true"
+139-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:43:13-36
+140            android:permission="com.google.android.c2dm.permission.SEND" >
+140-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:44:13-73
+141            <intent-filter>
+141-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+142                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+142-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:46:17-81
+142-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:46:25-78
+143
+144                <category android:name="com.ambulance.proj.myambulance" />
+144-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+144-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+145            </intent-filter>
+146        </receiver>
+147        <!--
+148             FirebaseInstanceIdService performs security checks at runtime,
+149             no need for explicit permissions despite exported="true"
+150        -->
+151        <service
+151-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:56:9-62:19
+152            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+152-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:57:13-77
+153            android:exported="true" >
+153-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:58:13-36
+154            <intent-filter android:priority="-500" >
+154-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:59:13-61:29
+154-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:59:28-51
+155                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+155-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:60:17-80
+155-->[com.google.firebase:firebase-iid:15.1.0] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\2501000260380dfde3fd8d1bb1cf07a7\firebase-iid-15.1.0\AndroidManifest.xml:60:25-77
+156            </intent-filter>
+157        </service>
+158
+159        <activity
+159-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+160            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+160-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+161            android:exported="false"
+161-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+162            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+162-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2c1ed68f27aaf8ce9de77030a2295aa\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+163
+164        <provider
+164-->[com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:8:9-12:39
+165            android:name="com.google.firebase.provider.FirebaseInitProvider"
+165-->[com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:9:13-77
+166            android:authorities="com.ambulance.proj.myambulance.firebaseinitprovider"
+166-->[com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:10:13-72
+167            android:exported="false"
+167-->[com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:11:13-37
+168            android:initOrder="100" />
+168-->[com.google.firebase:firebase-common:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\624e92d999af604140fb5d25487d2094\firebase-common-15.0.1\AndroidManifest.xml:12:13-36
+169
+170        <meta-data
+170-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+171            android:name="com.google.android.gms.version"
+171-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+172            android:value="@integer/google_play_services_version" />
+172-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\harsh\.gradle\caches\transforms-2\files-2.1\b2b4f2bd261e8fc3be581a0bc69d69da\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+173    </application>
+174
+175</manifest>
